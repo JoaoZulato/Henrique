@@ -6,14 +6,14 @@ $principal,$bonus,$outros,$secundario,$impostos,$servicos,$planejado;
 
 
 function progressao ($mes[],$total,$planejado){
-
+	<script src="draw.js"></script>
 
 }
 
 
 
 function comparacao ($mes[],$total,$secundario,$principal,$outros,$bonus){
-
+		<script src="file.js"></script>
 }
 
 function dados ($mes[],$principal,$bonus,$outros,$secundario,$impostos,$servicos){
